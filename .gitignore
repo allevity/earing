@@ -1,0 +1,6 @@
+*.png
+tests/plots/
+deprecated/
+local.m
+former_implementation/
+
